@@ -11,3 +11,6 @@ wheels/
 
 # Reference material
 reference/
+
+# non released wells
+wells/6507*.las
