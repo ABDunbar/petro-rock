@@ -14,3 +14,7 @@ reference/
 
 # non released wells
 wells/6507*.las
+wells/6507*.parquet
+wells/Dvalin_formation_tops.csv
+wells/Dvalin_VM_tops_ABD.asc
+wells/wellbore_exploration_*.pdf
